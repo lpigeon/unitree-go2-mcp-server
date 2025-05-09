@@ -12,7 +12,7 @@ LOCAL_IP = "192.168.50.90"
 ROSBRIDGE_IP = "192.168.50.90"
 ROSBRIDGE_PORT = 9090
 
-mcp = FastMCP("go2-mcp-server")
+mcp = FastMCP("unitree-go2-mcp-server")
 ws_manager = WebSocketManager(ROSBRIDGE_IP, ROSBRIDGE_PORT, LOCAL_IP)
 ros2_manager = Ros2Manager(UNITREE_ROS2_SETUP_SH_PATH)
 wirelesscontroller = WirelessController(topic="/wirelesscontroller", msg_type="unitree_go/msg/WirelessController", setup_sh_path=UNITREE_ROS2_SETUP_SH_PATH)
