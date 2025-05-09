@@ -1,4 +1,4 @@
-# Contributing to Go2 MCP Server
+# Contributing to Unitree Go2 MCP Server
 
 ## How to Contribute
 
