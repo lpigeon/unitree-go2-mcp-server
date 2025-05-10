@@ -50,6 +50,8 @@ source .venv/bin/activate
 ### 4. MCP Server Configuration
 Set MCP setting to mcp.json.
 
+**Please keep in mind that the configuration must be done on the PC connected to the Go2.**
+
 ```bash
 {
     "mcpServers": {
@@ -68,9 +70,17 @@ Set MCP setting to mcp.json.
 
 If you use Claude Desktop, you can find mcp.json using the following command:
 
-- MacOS/Linux
+- MacOS
 ```bash
 code ~/Library/Application\ Support/Claude/claude_desktop_config.json
+```
+
+- Linux(Ubuntu)
+  
+You can install Claude Desktop to use [claude-desktop-debian](https://github.com/aaddrick/claude-desktop-debian).
+
+```bash
+code ~/.config/Claude/claude_desktop_config.json
 ```
 
 - Windows
