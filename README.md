@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/lpigeon-unitree-go2-mcp-server-badge.png)](https://mseep.ai/app/lpigeon-unitree-go2-mcp-server)
+
 # Unitree Go2 MCP Server
 ![ROS 2](https://img.shields.io/badge/ROS_2-Foxy|Humble-blue)
 ![Static Badge](https://img.shields.io/badge/License-Apache2.0-green)
