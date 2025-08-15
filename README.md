@@ -2,6 +2,8 @@
 ![ROS 2](https://img.shields.io/badge/ROS_2-Foxy|Humble-blue)
 ![Static Badge](https://img.shields.io/badge/License-Apache2.0-green)
 
+[![Trust Score](https://archestra.ai/mcp-catalog/api/badge/quality/lpigeon/unitree-go2-mcp-server)](https://archestra.ai/mcp-catalog/lpigeon__unitree-go2-mcp-server)
+
 <center><img src="https://github.com/lpigeon/unitree-go2-mcp-server/blob/main/img/thumbnail.png" width="800"/></center>
 
 The **Unitree Go2 MCP Server** is a server built on the Model Context Protocol (MCP) that enables users to control the Unitree Go2 robot using natural language commands interpreted by a Large Language Model (LLM). These commands are translated into ROS2 instructions, allowing the robot to perform corresponding actions.
