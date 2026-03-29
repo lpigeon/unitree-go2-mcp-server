@@ -20,6 +20,10 @@ The **Unitree Go2 MCP Server** is a server built on the Model Context Protocol (
 
 You can find the list of functions in the [MCPFUNCTIONS.md](MCPFUNCTIONS.md).
 
+## Hosted deployment
+
+A hosted deployment is available on [Fronteir AI](https://fronteir.ai/mcp/lpigeon-unitree-go2-mcp-server).
+
 ## Installation
 
 ### 1. Setup `unitree_ros2` environment
